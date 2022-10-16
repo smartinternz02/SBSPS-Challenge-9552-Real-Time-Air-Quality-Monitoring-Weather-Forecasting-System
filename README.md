@@ -60,7 +60,7 @@ There are a few options available to customize on the preferences window that yo
 
 ## Airmoqual API
 
-From version 2, Airqmon uses the [Airmon API][airqmon-api], a supplementary service, to find the nearest station and fetch measurements.
+We have used National Air Quality Index API for real time data.
 
 
 ## Privacy
