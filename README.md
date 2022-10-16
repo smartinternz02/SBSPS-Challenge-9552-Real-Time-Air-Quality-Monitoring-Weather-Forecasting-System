@@ -39,9 +39,9 @@ I have removed all binaries from the current and previous releases as they will 
 ## Requirements
 
 
-1.Google colab(latest version)
-2.python 3.8.0
-3.front_end tools HTML, CSS, JavaScript
+1.Google colab(latest version).
+2.python 3.8.0.
+3.front_end tools HTML, CSS, JavaScript.
 4.Tableau 2022.2.2.0.
  
 
