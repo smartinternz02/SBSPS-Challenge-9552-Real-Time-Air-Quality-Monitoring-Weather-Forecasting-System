@@ -2,7 +2,7 @@
 Real-Time Air Quality Monitoring &amp; Weather Forecasting System.
 
 
-# <img src="https://user-images.githubusercontent.com/1029142/32918679-7336704a-cb23-11e7-92b2-d8a7f2588055.png" width="38px" alt="Airmoqual icon" align="top" /> Airmoqual
+# <img src="C:\Users\SAI LIKITHA\Desktop\ibm logo.PNG" width="38px" alt="Airmoqual icon" align="top" /> Airmoqual
 
 Air pollution is one of the serious environmental problems that is leading to millions of
 premature deaths each year. Air quality monitoring systems will be one of the proactive
@@ -36,15 +36,15 @@ I have removed all binaries from the current and previous releases as they will 
 ## Requirements
 
 1. Google colab(latest version).
-2.  python 3.8.0`.
-3. front_end tools HTML, CSS, JavaScript`.
+2.  python 3.8.0.
+3. front_end tools HTML, CSS, JavaScript.
 4. Tableau 2022.2.2.0.
 
 ## Tasks
 
 1. Machine Learning Model.
 2. Generation of map view of Tableau.
-3. Website Devolopment`.
+3. Website Devolopment.
 4. Integration of map with website.
 
 
@@ -52,7 +52,7 @@ I have removed all binaries from the current and previous releases as they will 
 
 1. Clone the [latest release][Airmoqual-latest-release].
 2. Install the dependancies given in Readme.md file.
-3. Build the Project and run it on your system`.
+3. Build the Project and run it on your system.
 
 ## Preferences
 
