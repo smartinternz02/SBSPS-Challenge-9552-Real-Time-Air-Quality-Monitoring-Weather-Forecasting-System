@@ -1,7 +1,9 @@
 # SBSPS-Challenge-9552-Real-Time-Air-Quality-Monitoring-Weather-Forecasting-System
-Real-Time Air Quality Monitoring &amp; Weather Forecasting System
+Real-Time Air Quality Monitoring &amp; Weather Forecasting System.
+
+
 [![Sponsor][sponsor-badge]][sponsor]
-[![GitHub release][badge-github-release]][airmoqual-latest-release]
+[![GitHub release][badge-github-release]][airqmon-latest-release]
 [![GitHub Actions][badge-gh-actions]][gh-actions]
 [![License][badge-license]][license]
 
@@ -35,10 +37,12 @@ Due to the reasons described in [this comment](https://github.com/jsynowiec/airq
 
 I have removed all binaries from the current and previous releases as they will no longer work. You can host the Airqmon API on your own and clone the latest release to build your version of the app.
 ## Requirements
- 1.Google colab(latest version)
- 2.python 3.8.0
- 3.front_end tools HTML, CSS, JavaScript
- 4.Tableau 2022.2.2.0
+
+
+1.Google colab(latest version)
+2.python 3.8.0
+3.front_end tools HTML, CSS, JavaScript
+4.Tableau 2022.2.2.0.
  
 
 ## Build & installation
