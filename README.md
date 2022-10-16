@@ -36,14 +36,14 @@ developed using front-end technologies(HTML, CSS, and JS).
 Due to the reasons described in [this comment](https://github.com/jsynowiec/airqmon/issues/50#issuecomment-1008751034), I am no longer willing to cover the monthly costs associated with the Airqmon API and Google Geolocation.
 
 I have removed all binaries from the current and previous releases as they will no longer work. You can host the Airqmon API on your own and clone the latest release to build your version of the app.
+
+
 ## Requirements
 
-
-1.Google colab(latest version).
-2.python 3.8.0.
-3.front_end tools HTML, CSS, JavaScript.
-4.Tableau 2022.2.2.0.
- 
+1. Google colab(latest version)..
+2.  python 3.8.0`.
+3. front_end tools HTML, CSS, JavaScript`.
+4. Tableau 2022.2.2.0.
 
 ## Build & installation
 
