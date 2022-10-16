@@ -1,21 +1,29 @@
 # SBSPS-Challenge-9552-Real-Time-Air-Quality-Monitoring-Weather-Forecasting-System
 Real-Time Air Quality Monitoring &amp; Weather Forecasting System
 [![Sponsor][sponsor-badge]][sponsor]
-[![GitHub release][badge-github-release]][airqmon-latest-release]
+[![GitHub release][badge-github-release]][airmoqual-latest-release]
 [![GitHub Actions][badge-gh-actions]][gh-actions]
 [![License][badge-license]][license]
 
-# <img src="https://user-images.githubusercontent.com/1029142/32918679-7336704a-cb23-11e7-92b2-d8a7f2588055.png" width="38px" alt="Airqmon icon" align="top" /> Airqmon
+# <img src="https://user-images.githubusercontent.com/1029142/32918679-7336704a-cb23-11e7-92b2-d8a7f2588055.png" width="38px" alt="Airmoqual icon" align="top" /> Airmoqual
 
-Airqmon is a macOS menu bar application that displays live air quality data from the nearest sensor station. It can also notify you when the air quality index changes or when a new, closer station is found.
-
+Air pollution is one of the serious environmental problems that is leading to millions of
+premature deaths each year. Air quality monitoring systems will be one of the proactive
+solutions for reducing deaths.
+Our project provides air quality measurement and pollutant values(PM2.5, PM10, NO2,
+NH3, CO, etc) of each city in India.
+We have built our model using the Xgboost(Extreme Gradient Boosting) algorithm with high
+accuracy of 99%. After that, we used an API to collect real-world pollutant values. With this
+data we predicted air quality and with the help of tableau software, we have represented air
+quality in India Map. Eventually, we integrated this map with a web application which is
+developed using front-end technologies(HTML, CSS, and JS).
 <p align="center">
-  <img width="492" align="center" alt="Airqmon window with measurement details" src="https://airqmon.app/assets/airqmon-overview@2x.png" />
+  <img width="492" align="center" alt="Airqmon window with measurement details" src="https://media.istockphoto.com/vectors/air-quality-index-numerical-scale-concept-vector-illustration-vector-id1201722905?k=20&m=1201722905&s=612x612&w=0&h=rt0Xo1NZ5M4jPoq_nLaE6qL0UeZ31I6vItHe5WsMVHw=" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/1029142/36537429-674931ba-17d0-11e8-88ee-c246226c1053.png" width="378px" align="center" alt="Airqmon notification about air quality" />
-</p>
+</p> -->
 
 ## Supported data providers
 
@@ -26,6 +34,12 @@ Airqmon is a macOS menu bar application that displays live air quality data from
 Due to the reasons described in [this comment](https://github.com/jsynowiec/airqmon/issues/50#issuecomment-1008751034), I am no longer willing to cover the monthly costs associated with the Airqmon API and Google Geolocation.
 
 I have removed all binaries from the current and previous releases as they will no longer work. You can host the Airqmon API on your own and clone the latest release to build your version of the app.
+## Requirements
+ 1.Google colab(latest version)
+ 2.python 3.8.0
+ 3.front_end tools HTML, CSS, JavaScript
+ 4.Tableau 2022.2.2.0
+ 
 
 ## Build & installation
 
@@ -38,7 +52,7 @@ I have removed all binaries from the current and previous releases as they will 
 
 There are a few options available to customize on the preferences window that you can access by clicking on the button with a cog or by pressing the `⌘ + ,` shortcut.
 
-## Airqmon API
+## Airmoqual API
 
 From version 2, Airqmon uses the [Airmon API][airqmon-api], a supplementary service, to find the nearest station and fetch measurements.
 
@@ -48,15 +62,15 @@ From version 2.1.1, Airqmon uses the free ip-api.com for geolocation. If you wan
 
 ## Privacy
 
-Airqmon application does not track any personally identifiable information or usage analytics.
-
+Airmoqual application does not track any personally identifiable information or usage analytics.
+<!-- 
 ### Credits
 
 My sincere thanks to the following individuals for helping me with beta testing and for donating 🙏
 
 | [![Michał Pierzchała](https://github.com/thymikee.png?size=50)](https://github.com/thymikee) | [![Konrad Dzwinel](https://github.com/kdzwinel.png?size=50)](https://github.com/kdzwinel) |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Michał Pierzchała](https://github.com/thymikee)                                             | [Konrad Dzwinel](https://github.com/kdzwinel)                                             |
+| [Michał Pierzchała](https://github.com/thymikee)                                             | [Konrad Dzwinel](https://github.com/kdzwinel)                                             | -->
 
 ## License
 
