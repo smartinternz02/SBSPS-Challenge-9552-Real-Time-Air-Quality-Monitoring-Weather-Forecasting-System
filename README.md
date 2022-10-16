@@ -6,6 +6,8 @@ Real-Time Air Quality Monitoring &amp; Weather Forecasting System.
 [![Sponsor][sponsor-badge]][sponsor]
 [![GitHub release][badge-github-release]][airqmon-latest-release]
 [![GitHub Actions][badge-gh-actions]][gh-actions]
+[![License][badge-license]][license]
+
 
 # <img src="https://user-images.githubusercontent.com/1029142/32918679-7336704a-cb23-11e7-92b2-d8a7f2588055.png" width="38px" alt="Airmoqual icon" align="top" /> Airmoqual
 
