@@ -1,8 +1,6 @@
 # SBSPS-Challenge-9552-Real-Time-Air-Quality-Monitoring-Weather-Forecasting-System
 Real-Time Air Quality Monitoring &amp; Weather Forecasting System.
 
-
-
 [![Sponsor][sponsor-badge]][sponsor]
 [![GitHub release][badge-github-release]][airqmon-latest-release]
 [![GitHub Actions][badge-gh-actions]][gh-actions]
