@@ -2,7 +2,7 @@
 <h3>Real-Time Air Quality Monitoring &amp; Weather Forecasting System.</h3>
 
 
-# <img width="100" height="50" src="Project Files/IBM-HackChallenge-Frontend/images/Logo.PNG" alt="Airmoqual icon" align="top" /> Airmoqual
+# <img width="75" height="50" src="Project Files/IBM-HackChallenge-Frontend/images/Logo.PNG" alt="Airmoqual icon" align="top" /> Airmoqual
 
 Air pollution is one of the serious environmental problems that is leading to millions of
 premature deaths each year. Air quality monitoring systems will be one of the proactive
