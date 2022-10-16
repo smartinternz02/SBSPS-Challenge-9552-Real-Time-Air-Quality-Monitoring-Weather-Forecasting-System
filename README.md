@@ -1,8 +1,8 @@
 # SBSPS-Challenge-9552-Real-Time-Air-Quality-Monitoring-Weather-Forecasting-System
-Real-Time Air Quality Monitoring &amp; Weather Forecasting System.
+<h3>Real-Time Air Quality Monitoring &amp; Weather Forecasting System.</h3>
 
 
-# <img src="C:\Users\SAI LIKITHA\Desktop\ibm logo.PNG" width="38px" alt="Airmoqual icon" align="top" /> Airmoqual
+# <img src="" alt="Airmoqual icon" align="top" /> Airmoqual
 
 Air pollution is one of the serious environmental problems that is leading to millions of
 premature deaths each year. Air quality monitoring systems will be one of the proactive
